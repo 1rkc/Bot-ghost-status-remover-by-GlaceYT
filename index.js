@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["Bot oficial de EJC · Comunicaciones"];
-const statusTypes = [ 'dnd', 'idle'];
+const statusTypes = [ 'online'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
